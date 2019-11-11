@@ -10,3 +10,4 @@ func _on_Button_pressed():
 # This has been created automatically my the GUI
 func _on_Button_AutoConnect_pressed():
 	get_node("Label_button_Auto_Connect").text = "HELLO!"
+
