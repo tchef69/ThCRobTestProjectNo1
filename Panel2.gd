@@ -5,5 +5,5 @@ func _ready():
 
 
 func _on_Panel2_Timer_timeout():
-	var s = get_node("Sprite")
-	s.visible = !s.visible
+    var s = get_node("Sprite")
+    s.visible = !s.visible
